@@ -12,6 +12,7 @@ Directorio (no oficial) de sitios web relacionados con el movimiento de regenera
 * http://morenaedomex.org.mx/
 * http://radioamlo.org/
 * http://www.morena.org/
+* http://amlo.si/
 
 Wikipedia
 * http://es.wikipedia.org/wiki/Movimiento_Regeneraci%C3%B3n_Nacional
