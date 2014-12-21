@@ -21,6 +21,7 @@ Wikipedia
 Canales de Youtube
 ------------------
 
+* https://www.youtube.com/channel/UCE-tZ4cVVolmAVKS25nAk1Q - Regeneracion TV
 * https://www.youtube.com/channel/UCry28NiqpSkiH2ahGOcgY5A - Morena Mexico
 * https://www.youtube.com/user/VeRegeneracion - VeRegeneracion
 * https://www.youtube.com/channel/UCpDIDsk035OMjYuFhYMUoPw - MORENA La esperanza de México
